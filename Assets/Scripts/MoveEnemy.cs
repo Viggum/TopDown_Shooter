@@ -13,6 +13,7 @@ public class MoveEnemy : MonoBehaviour
         
     }
 
+    //Ylim‰‰r‰inen kommentti githubia varten
     // Update is called once per frame
     void Update()
     {
